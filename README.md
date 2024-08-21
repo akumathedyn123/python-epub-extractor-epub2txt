@@ -3,7 +3,7 @@
 ## EPUB Text Extractor ##
 
 This Python script extracts text content from EPUB files located within a specified folder.
-
+ 
 ### Features ###
 
 * Iterates through all EPUB files in a directory.
